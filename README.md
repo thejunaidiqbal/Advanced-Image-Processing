@@ -1,6 +1,7 @@
 # Advanced-Image-Processing
 
 #### Advanced image processing techniques and applications for biological objects. ... Whole process from recording the image, to processing it, is dissected both in hardware and technical details.
+</br>
 
 ## Author
 You can get in touch with me on my LinkedIn Profile:
